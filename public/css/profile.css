@@ -27,6 +27,8 @@ body
 .tengah
 {
     padding: 0px 200px;
+    height: 400px;
+    color: rgb(195, 241, 255);
 }
 .buttonatas
 {
@@ -34,5 +36,11 @@ body
 }
 .kaki
 {
-    /*background-color: ;*/
+    background-color: #25529A;
+    height: 100px;
+}
+.t2
+{
+    background-color: #2D68B5;
+    height: 100px;
 }

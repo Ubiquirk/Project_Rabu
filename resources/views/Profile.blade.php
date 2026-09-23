@@ -17,8 +17,13 @@
         <div class="tengah">
             <br>
             <button>Portofolio Saya</button>
+            <p>Perkenalkan nama saya Muhammad Aziz Nugroho.</p>
+            <p>Rumah saya Tegalrejo, Girirejo, Imogiri, Bantul.</p>
+            <p>Saya sekolah di SMKN 1 Bantul.</p>
         </div>
-        <div>
+        <div class="t2">
+            <h1>hobi</h1>
+            <img src="" alt="Bermain Game">
 
         </div>
         <div>
